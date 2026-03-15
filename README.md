@@ -1,2 +1,13 @@
-# Statistics
-Using grades and marks class data, generated grapghs such as gender distribution, score distribution and exam score distribution with mean and standard deviation.
+# Statistics Data Analysis
+
+This project analyzes student exam scores using Python.
+
+## Features
+- Mean and Standard Deviation Calculation
+- Score Distribution Visualization
+- Gender Distribution Pie Chart
+
+## Technologies
+- Python
+- Pandas
+- Matplotlib
